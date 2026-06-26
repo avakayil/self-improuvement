@@ -49,6 +49,7 @@ circle = Circle()
 circle.x = 10
 circle.y = 20
 circle.color = "Red"
+circle.radius = 10
 
 shapes.append(circle)
 
